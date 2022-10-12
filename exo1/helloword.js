@@ -2,4 +2,4 @@ const helloWorld = function() {
     return ''
   };
 
-  module.export = helloWorld;
+  module.export = helloWorld 
